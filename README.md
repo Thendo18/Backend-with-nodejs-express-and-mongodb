@@ -1,2 +1,2 @@
-# Backend-with-nodejs-express-and-mongodb
-created this backend using nodejs,express and mongodb
+# CRUD-app-with-Node-and-MongoDB
+Simple CRUD app with Node, Express, and MongoDB
