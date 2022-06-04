@@ -3,6 +3,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
   },
+  "author": {
+    "name": "Thendo Makherana"
+  },
   "dependencies": {
     "config": "^3.3.7",
     "express": "^4.18.1",
